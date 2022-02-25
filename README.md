@@ -13,7 +13,7 @@
 # Demonstração
 
 <h2 align="center">
-    <img maxheight="500px" src="./assets/css/tela-login-witch.png" alt="print lading page"/>
+    <img maxheight="500px" src=".assets/css/tela-login-witch.png" alt="print lading page"/>
 </h2>
 
 # Objetivos
