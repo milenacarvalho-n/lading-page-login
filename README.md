@@ -13,7 +13,7 @@
 # Demonstração
 
 <h2 align="center">
-    <img maxheight="500px" src=".assets/css/tela-login-witch.png" alt="print lading page"/>
+    <img maxheight="500px" src="https://user-images.githubusercontent.com/80054194/155761032-888b69e0-6f6f-457d-aa1e-7017bec9cbd4.png"/>
 </h2>
 
 # Objetivos
@@ -30,4 +30,4 @@
 # Autor
 
 - Desenvolvido por Milena Carvalho, com base na aula de Marzuel.
-- 
+
